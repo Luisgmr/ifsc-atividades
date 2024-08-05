@@ -1,6 +1,4 @@
-package com.luisgmr.atividades.projetodesistemas.padroes.compositeproduto;
-
-import java.util.Arrays;
+package com.luisgmr.atividades.projetodesistemas.padroes.composite.compositeproduto;
 
 public class Main {
 

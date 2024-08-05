@@ -1,4 +1,4 @@
-package com.luisgmr.atividades.projetodesistemas.padroes.compositeproduto;
+package com.luisgmr.atividades.projetodesistemas.padroes.composite.compositeproduto;
 
 
 import java.util.ArrayList;

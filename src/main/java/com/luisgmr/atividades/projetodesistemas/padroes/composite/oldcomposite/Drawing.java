@@ -1,4 +1,4 @@
-package com.luisgmr.atividades.projetodesistemas.padroes.oldcomposite;
+package com.luisgmr.atividades.projetodesistemas.padroes.composite.oldcomposite;
 
 import java.util.List;
 
